@@ -1,4 +1,4 @@
--- Link fo the database: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox
+-- Link for the database: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox
 
 -- Query to know how many users made more than one purchase:
 SELECT Count (*)
